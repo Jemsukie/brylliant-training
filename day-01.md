@@ -1,5 +1,6 @@
-# Style Guide Preparation
-## Notes:
+# Notes: 
+
+## Style Guide Preparation
 - Designer yung gumagawa ng assets 
 - Get the fonts and assets immediately when receiving the task to start a project
 	- we'll see link of the link of fonts in figma, or we could find the in the `Ag`
